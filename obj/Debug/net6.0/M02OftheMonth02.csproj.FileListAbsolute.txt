@@ -1,0 +1,15 @@
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\bin\Debug\net6.0\M02OftheMonth02.exe
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\bin\Debug\net6.0\M02OftheMonth02.deps.json
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\bin\Debug\net6.0\M02OftheMonth02.runtimeconfig.json
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\bin\Debug\net6.0\M02OftheMonth02.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\bin\Debug\net6.0\M02OftheMonth02.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\obj\Debug\net6.0\M02OftheMonth02.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\obj\Debug\net6.0\M02OftheMonth02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\obj\Debug\net6.0\M02OftheMonth02.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\obj\Debug\net6.0\M02OftheMonth02.AssemblyInfo.cs
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\obj\Debug\net6.0\M02OftheMonth02.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\obj\Debug\net6.0\M02OftheMonth02.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\obj\Debug\net6.0\refint\M02OftheMonth02.dll
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\obj\Debug\net6.0\M02OftheMonth02.pdb
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\obj\Debug\net6.0\M02OftheMonth02.genruntimeconfig.cache
+C:\Users\Austin\Desktop\School Project\C#\Module 02\M02OftheMonth02\obj\Debug\net6.0\ref\M02OftheMonth02.dll
